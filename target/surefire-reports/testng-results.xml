@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-04T23:07:31Z" name="Command line suite" finished-at="2018-10-04T23:07:31Z" duration-ms="29">
+    <groups>
+    </groups>
+    <test started-at="2018-10-04T23:07:31Z" name="Command line test" finished-at="2018-10-04T23:07:31Z" duration-ms="29">
+      <class name="com.KrishnaComp.app.SeleniumTest">
+        <test-method signature="f()[pri:0, instance:com.KrishnaComp.app.SeleniumTest@3e92efc3]" started-at="2018-10-04T23:07:31Z" name="f" finished-at="2018-10-04T23:07:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.KrishnaComp.app.SeleniumTest -->
+      <class name="com.KrishnaComp.app.AppTest">
+        <test-method signature="testApp()[pri:0, instance:com.KrishnaComp.app.AppTest@703580bf]" started-at="2018-10-04T23:07:31Z" name="testApp" finished-at="2018-10-04T23:07:31Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.KrishnaComp.app.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
