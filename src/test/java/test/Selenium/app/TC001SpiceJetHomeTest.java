@@ -13,5 +13,6 @@ public class TC001SpiceJetHomeTest extends DriverInitializationChrome{
 	@Test
 	public void TC001SpiceJet() {
 		ExtentTestManager.getTest().setDescription("Open SpiceJet HomePage");
+		System.out.println("Hello");
 	}
 }
